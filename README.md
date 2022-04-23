@@ -4,7 +4,7 @@ Prueba Tecnica para el puesto de Desarrollador que utiliza PostgreSQL y ASP. Net
 
 Se utiliza PostgreSQL 13 y .NET 6 (Soporte extendido)
 
-Utiliza control errores 
+Utiliza control errores (Si presenta algún error con los paquetes Nuget en .NET, Microsoft recomienda Recompilar el Proyecto y luego si ejecutarlo nuevamente)
 
 
 Se debe cargar primero la base de datos (se llama cine.sql) al gestor de base de datos PostgreSQL (versión estable). La configuración de la Aplicación tiene la siguiente información pasada a la cadena de conexión: (ConnectionStrings): "Host=localhost;Database=cine;Username=postgres;Password=cine"
